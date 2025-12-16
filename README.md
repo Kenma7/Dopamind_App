@@ -1,4 +1,4 @@
-# DOPAMIND – Aplikasi Pendukung Kesehatan Mental (UAS PBM 2025)
+# DOPAMIND – Aplikasi Pendukung Kesehatan Mental
 
 Aplikasi mobile berbasis Flutter dengan backend PHP & MySQL untuk mendukung kesehatan mental melalui fitur mood tracking, jurnal syukur, meditasi audio, dan aktivitas self-healing.
 
