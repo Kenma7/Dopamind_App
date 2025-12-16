@@ -6,7 +6,6 @@ Aplikasi mobile berbasis Flutter dengan backend PHP & MySQL untuk mendukung kese
 - `/frontend` – Kode Flutter (Dart)
 - `/backend` – API PHP (XAMPP/htdocs)
 - `/database` – Skema MySQL & contoh data
-- `/docs` – Laporan UAS & dokumentasi
 
 ## Cara Menjalankan
 ### Backend (PHP)
